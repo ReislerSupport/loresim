@@ -1,4 +1,4 @@
-<h1 align="centre">LoungeMusic 🎵</h1>
+<h1 align="centre">ReislerMusic 🎵</h1>
 
 ### Telegram grubunun sesli Sohbetinde müzik çalabilen bir bot
 
@@ -45,11 +45,11 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 #### Gruptaki herkes için
 
 - `/play <song name>` - istediğin şarkıyı çal
-- `/dplay <song name>` - deezer aracılığıyla istediğiniz şarkıyı çalın
-- `/splay <song name>` - jio saavn aracılığıyla istediğiniz şarkıyı çalın
+- `/dcal <song name>` - deezer aracılığıyla istediğiniz şarkıyı çalın
+- `/scal <song name>` - jio saavn aracılığıyla istediğiniz şarkıyı çalın
 - `/playlist` - Şimdi çalma listesini göster
 - `/current` - Şimdi çalan göster
-- `/song <song name>` - istediğiniz şarkıları hızlı bir şekilde indirin
+- `/ara <song name>` - istediğiniz şarkıları hızlı bir şekilde indirin
 - `/search <query>` - youtube'daki videoları ayrıntılarla arayın
 - `/deezer <song name>` - istediğiniz şarkıları deezer ile hızlıca indirin
 - `/saavn <song name>` - istediğiniz şarkıları saavn üzerinden hızlıca indirin
@@ -57,10 +57,10 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 
 #### Yalnızca yöneticiler.
 - `/player` - müzik çalar ayarları panelini aç
-- `/pause` - şarkı çalmayı duraklat
-- `/resume` - şarkı çalmaya devam et
-- `/skip` - sonraki şarkıyı çal
-- `/end` - müzik çalmayı durdur
+- `/Durdur` - şarkı çalmayı duraklat
+- `/devam` - şarkı çalmaya devam et
+- `/atla` - sonraki şarkıyı çal
+- `/son` - müzik çalmayı durdur
 - `/userbotjoin` - asistanı sohbetinize davet edin
 - `/userbotleave` - asistanı sohbetinizden çıkarın
 - `/admincache` - Yönetici listesini yenile
